@@ -35,5 +35,5 @@ Pod::Spec.new do |s|
   s.dependency 'FBSDKCoreKit', '~> 4.16.1'
 
   s.ios.dependency 'FBSDKLoginKit', '~> 4.16.1'
-  s.tvos.dependency 'FBSDKTVOSKit', '~> 4.16.1'
+  s.tvos.dependency 'FBSDKTVOSKit', '~> 4.10'
 end

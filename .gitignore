@@ -27,3 +27,6 @@ Vendor/tvOS/Parse.framework
 Vendor/tvOS/Bolts.framework
 Vendor/tvOS/FBSDKCoreKit.framework
 Vendor/tvOS/FBSDKTVOSKit.framework
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
